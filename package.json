@@ -24,9 +24,8 @@
     "src/*"
   ],
   "dependencies": {
-    "core-js": "^3.6.4",
+    "core-js": "^3.26.0",
     "plotly.js": "^2.16.1",
-    "d3-color": "^3.1.0",
     "vue": "^2.6.11",
     "vue-resize-directive": "^1.2.0"
   },
@@ -42,6 +41,7 @@
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
     "bootstrap": "^4.4.1",
+    "bubleify": "^2.0.0",
     "codecov": "^3.6.1",
     "eslint": "^6.8.0",
     "eslint-plugin-prettier": "^3.1.2",
